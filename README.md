@@ -4,4 +4,4 @@
 - [ ] Llist VMs
 - [ ] Start VM
 - [ ] Get VM IP
-- [ ] Get RPD 
+- [ ] Get RDP 
